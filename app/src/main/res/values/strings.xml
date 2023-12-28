@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">first_app</string>
+
+    <string name="search">Search</string>
+    <string name="default_text">Hi there !</string>
+
+    <string name="first_section">Kittens in circles</string>
+    <string name="second_section">Kittens in rectangles</string>
+
+    <string name="btn_vavigation_star">Home</string>
+    <string name="btn_vavigation_account">You</string>
+    <string name="title_activity_home_screen">HomeScreen</string>
+
+    <string name="Home_screen_changePhoto">Change the avatar</string>
+</resources>
